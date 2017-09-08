@@ -10,7 +10,7 @@
    - Regional climate changes over differnt continetns [[Li et al., (2012)](http://onlinelibrary.wiley.com/doi/10.1029/2011JD017186/abstract)]
    - Climate indices, such as NAO, PNA [[Li and Forest (2014)](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00231.1)]
    - Regional climate and drought conditions over river basins [[Tsai et al., (2016)](https://link.springer.com/article/10.1007/s00382-014-2449-1)]
-   - Polar Climate (Greenland/Antartica, *This project!*)
+   - Polar climate (Greenland/Antarctica *This project!*)
 
 ### 3. Scripts
 
