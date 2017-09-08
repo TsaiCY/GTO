@@ -4,10 +4,6 @@
    Welcome to the "**Global Teleconnection Operator (GTO)**" project! In this project, we build a multi-linear regression model to characterize linear relations between sea surface temperature (SST) and several climate variables (e.g., air temperature, precipitation) over different regions in Antarctica.
 
 
-Scripts for model diagnostics will be avaiable soon:
-- Compare different versions of CAM output against observations and CMIP5
-
-
 ### 2. Application
 
    GTO can be applied to address various aspects of regional climate changes based on SST:
@@ -23,5 +19,10 @@ Scripts for model diagnostics will be avaiable soon:
      - In this script, we calculate GTO for Amundsen Sea Embayment (AMD) during austral summer and visualize it on a map.
    - Perform reconstructions (*ongoing work, script coming soon*)
    - Compare reconstructed results to observations, other model output... (*ongoing work, script coming soon*)
+
+
+Scripts for model diagnostics will be avaiable soon:
+- Compare different versions of CAM output against observations and CMIP5
+
 
 *Note: For better viewing experience in .ipynb files, please check out the version in jupyter nbviewer. Just click on the upper right button*
