@@ -4,7 +4,7 @@
    Welcome to the "**Global Teleconnection Operator (GTO)**" project! In this project, we build a multi-linear regression model to characterize linear relations between sea surface temperature (SST) and several climate variables (e.g., air temperature, precipitation) over different regions in Antarctica.
 
 
-### 2. Application
+### 2. Applications
 
    GTO can be applied to address various aspects of regional climate changes based on SST:
    - Regional climate changes over differnt continetns [[Li et al., (2012)](http://onlinelibrary.wiley.com/doi/10.1029/2011JD017186/abstract)]
