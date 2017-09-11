@@ -16,7 +16,7 @@
 
    This project comprises several elements, and we will point you to the jupyter notebooks that introduce brief background with sample scripts to conduct associated tasks:
    - Calculate GTO ([GTO_SensitivityMap_CAM3_ANT.ipynb](https://github.com/TsaiCY/GTO/blob/master/GTO_SensitivityMap_CAM3_ANT.ipynb), [jupyter nbviewer](http://nbviewer.jupyter.org/github/TsaiCY/GTO/blob/9ac1cddbb48b517be5100982c71f9522eebe0a01/GTO_SensitivityMap_CAM3_ANT.ipynb))
-     - In this script, we calculate GTO for Amundsen Sea Embayment (AMD) during austral summer and visualize it on a map.
+     - In this script, we calculate GTO for 5 regions in Antarctica for austral summer but we only show the GTO maps and the interpretations for Amundsen Sea Embayment (AMD).
    - Perform reconstructions (*ongoing work, script coming soon*)
    - Compare reconstructed results to observations, other model output... (*ongoing work, script coming soon*)
 
